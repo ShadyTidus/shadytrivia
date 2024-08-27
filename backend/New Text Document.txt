@@ -1,0 +1,381 @@
+Easy:
+
+    What is the name of the hotel in The Shining?
+        Options: [Overlook Hotel, Bates Motel, The Stanley, Continental Hotel]
+        Correct Answer: Overlook Hotel
+
+    Who directed the 1978 film Halloween?
+        Options: [John Carpenter, Wes Craven, Tobe Hooper, George Romero]
+        Correct Answer: John Carpenter
+
+    In A Nightmare on Elm Street, what is Freddy Krueger's weapon of choice?
+        Options: [A knife, A chainsaw, A glove with razor fingers, A machete]
+        Correct Answer: A glove with razor fingers
+
+    What type of creature is the main antagonist in The Exorcist?
+        Options: [Vampire, Demon, Ghost, Witch]
+        Correct Answer: Demon
+
+    Which horror movie features the quote, "Do you want to play a game?"
+        Options: [Saw, The Ring, The Grudge, It Follows]
+        Correct Answer: Saw
+
+    What is the name of the possessed doll in The Conjuring series?
+        Options: [Chucky, Annabelle, Tiffany, Billy]
+        Correct Answer: Annabelle
+
+    In The Blair Witch Project, where are the characters trying to investigate?
+        Options: [A haunted house, A haunted forest, An abandoned hospital, A cemetery]
+        Correct Answer: A haunted forest
+
+    Which classic horror film features a monster created by Dr. Frankenstein?
+        Options: [Dracula, The Mummy, Frankenstein, The Wolfman]
+        Correct Answer: Frankenstein
+
+    What year was The Texas Chainsaw Massacre released?
+        Options: [1969, 1974, 1979, 1983]
+        Correct Answer: 1974
+
+    Which horror movie villain is known for his hockey mask?
+
+    Options: [Freddy Krueger, Michael Myers, Jason Voorhees, Leatherface]
+    Correct Answer: Jason Voorhees
+
+Medium:
+
+    Which horror film features the "Necronomicon" book?
+        Options: [Evil Dead, Hellraiser, The Omen, Poltergeist]
+        Correct Answer: Evil Dead
+
+    In The Ring, how many days after watching the cursed videotape do people die?
+        Options: [3 days, 5 days, 7 days, 10 days]
+        Correct Answer: 7 days
+
+    Which 1980s horror film features a killer named Chucky?
+        Options: [Child's Play, Puppet Master, Dolls, The Toy Box]
+        Correct Answer: Child's Play
+
+    Who is the main antagonist in Friday the 13th?
+        Options: [Michael Myers, Freddy Krueger, Jason Voorhees, Norman Bates]
+        Correct Answer: Jason Voorhees
+
+    What is the nickname of the serial killer in Silence of the Lambs?
+        Options: [Buffalo Bill, The Zodiac Killer, The Night Stalker, The Boston Strangler]
+        Correct Answer: Buffalo Bill
+
+    Which movie introduced the character Pinhead?
+        Options: [Hellraiser, Phantasm, Candyman, Wishmaster]
+        Correct Answer: Hellraiser
+
+    Which film is based on a Stephen King novel about a killer clown?
+        Options: [Carrie, It, Misery, Christine]
+        Correct Answer: It
+
+    What is the name of the demon in The Exorcist?
+        Options: [Pazuzu, Azazel, Balthazar, Beelzebub]
+        Correct Answer: Pazuzu
+
+    In The Omen, what is the name of the child who is the Antichrist?
+        Options: [Damien, David, Dylan, Daniel]
+        Correct Answer: Damien
+
+    What is the name of the demon from Insidious?
+
+    Options: [Lipstick-Face Demon, Red Dragon, Baphomet, Asmodeus]
+    Correct Answer: Lipstick-Face Demon
+
+Hard:
+
+    In The Cabin in the Woods, what creature does Dana summon by reading from the diary?
+        Options: [Zombies, Werewolves, Merman, Witches]
+        Correct Answer: Zombies
+
+    Which French horror film is considered part of the "New French Extremity" movement?
+        Options: [High Tension, Martyrs, Inside, Frontier(s)]
+        Correct Answer: Martyrs
+
+    What is the name of the curse in The Grudge?
+        Options: [Kayako, Ringu, Ju-On, Yurei]
+        Correct Answer: Ju-On
+
+    Which horror film features the character Samara Morgan?
+        Options: [The Ring, The Grudge, Sinister, Insidious]
+        Correct Answer: The Ring
+
+    What is the name of the cat in Pet Sematary?
+        Options: [Winston, Church, Gizmo, Snowball]
+        Correct Answer: Church
+
+    Who directed the movie Hereditary?
+        Options: [Ari Aster, Jordan Peele, Robert Eggers, Mike Flanagan]
+        Correct Answer: Ari Aster
+
+    In Scream, what is the name of the town where the events take place?
+        Options: [Woodsboro, Elm Street, Haddonfield, Springwood]
+        Correct Answer: Woodsboro
+
+    What is the name of the malevolent spirit in The Babadook?
+        Options: [Mister Babadook, Mister Creeps, Mister Boogeyman, Mister Whisper]
+        Correct Answer: Mister Babadook
+
+    Which 1970s Italian horror film was remade by Luca Guadagnino in 2018?
+        Options: [Suspiria, Deep Red, Black Sunday, The Bird with the Crystal Plumage]
+        Correct Answer: Suspiria
+
+    What is the real name of the doll "Chucky" in Child’s Play?
+        Options: [Charles Lee Ray, Robert Thompson, Billy Loomis, Michael Young]
+        Correct Answer: Charles Lee Ray
+
+Category: Serial Killers
+Easy:
+
+    Which serial killer was known as the "Killer Clown"?
+        Options: [John Wayne Gacy, Ted Bundy, Jeffrey Dahmer, Richard Ramirez]
+        Correct Answer: John Wayne Gacy
+
+    Which serial killer sent letters signed as "The Zodiac"?
+        Options: [Jack the Ripper, The Zodiac Killer, The Green River Killer, Son of Sam]
+        Correct Answer: The Zodiac Killer
+
+    Who was the Milwaukee Cannibal?
+        Options: [Albert Fish, Ed Gein, Jeffrey Dahmer, Ted Bundy]
+        Correct Answer: Jeffrey Dahmer
+
+    Which serial killer had a cult-like following and orchestrated the murders of Sharon Tate and others?
+        Options: [Charles Manson, Richard Ramirez, Ed Kemper, Gary Ridgway]
+        Correct Answer: Charles Manson
+
+    Which serial killer was known as the "BTK Killer"?
+        Options: [Dennis Rader, Ed Kemper, Aileen Wuornos, Ted Bundy]
+        Correct Answer: Dennis Rader
+
+    What was the nickname of the British serial killer Jack the Ripper?
+        Options: [The Whitechapel Murderer, The Zodiac Killer, The Boston Strangler, The Night Stalker]
+        Correct Answer: The Whitechapel Murderer
+
+    Which American serial killer was known for his charismatic personality and good looks?
+        Options: [Ted Bundy, Ed Gein, David Berkowitz, Albert Fish]
+        Correct Answer: Ted Bundy
+
+    Which infamous serial killer was portrayed by Zac Efron in a 2019 Netflix film?
+        Options: [Jeffrey Dahmer, Ted Bundy, Ed Gein, Richard Ramirez]
+        Correct Answer: Ted Bundy
+
+    What was the nickname of the New York City serial killer David Berkowitz?
+        Options: [The Zodiac, The Night Stalker, The Son of Sam, The BTK Killer]
+        Correct Answer: The Son of Sam
+
+    Which female serial killer was portrayed by Charlize Theron in Monster?
+        Options: [Aileen Wuornos, Dorothea Puente, Amelia Dyer, Belle Gunness]
+        Correct Answer: Aileen Wuornos
+
+Medium:
+
+    Which serial killer claimed his neighbor's dog told him to commit murders?
+        Options: [David Berkowitz, Ted Bundy, Richard Ramirez, Ed Kemper]
+        Correct Answer: David Berkowitz
+
+    Which serial killer created a "murder castle" in Chicago?
+        Options: [H.H. Holmes, Ed Gein, Albert Fish, John Wayne Gacy]
+        Correct Answer: H.H. Holmes
+
+    Who was the "Green River Killer"?
+        Options: [Gary Ridgway, Jeffrey Dahmer, Ted Bundy, Dennis Rader]
+        Correct Answer: Gary Ridgway
+
+    Which notorious serial killer used the alias "Theodore Robert Cowell"?
+        Options: [Ted Bundy, Richard Ramirez, John Wayne Gacy, Edmund Kemper]
+        Correct Answer: Ted Bundy
+
+    Which serial killer kept his victim's body parts in his apartment for years?
+        Options: [Jeffrey Dahmer, Albert Fish, Ed Gein, John Wayne Gacy]
+        Correct Answer: Jeffrey Dahmer
+
+    Which serial killer's murders were dramatized in the film Silence of the Lambs?
+        Options: [Ted Bundy, Jeffrey Dahmer, Ed Gein, Charles Manson]
+        Correct Answer: Ed Gein
+
+    Which British serial killer was known as the "Acid Bath Murderer"?
+        Options: [John George Haigh, Jack the Ripper, Fred West, Harold Shipman]
+        Correct Answer: John George Haigh
+
+    Which infamous serial killer was known for crafting items out of human skin?
+        Options: [Ed Gein, Albert Fish, Ted Bundy, Richard Ramirez]
+        Correct Answer: Ed Gein
+
+    Which serial killer left taunting letters with cryptic symbols to the police?
+        Options: [The Zodiac Killer, The BTK Killer, The Boston Strangler, The Night Stalker]
+        Correct Answer: The Zodiac Killer
+
+    Which Canadian serial killer was known for murdering women with the help of his wife?
+        Options: [Paul Bernardo, Robert Pickton, Bruce McArthur, Russell Williams]
+        Correct Answer: Paul Bernardo
+
+Hard:
+
+    Which American serial killer targeted sex workers in Alaska?
+        Options: [Robert Hansen, Israel Keyes, Edmund Kemper, Albert Fish]
+        Correct Answer: Robert Hansen
+
+    Who was the youngest serial killer in American history?
+        Options: [Jesse Pomeroy, Mary Bell, Richard Trenton Chase, Jane Toppan]
+        Correct Answer: Jesse Pomeroy
+
+    Which serial killer was known as "The Butcher of Plainfield"?
+        Options: [Ed Gein, Albert Fish, H.H. Holmes, Gary Ridgway]
+        Correct Answer: Ed Gein
+
+    Which American serial killer was known as the "Co-Ed Killer"?
+        Options: [Edmund Kemper, Ted Bundy, Richard Ramirez, David Berkowitz]
+        Correct Answer: Edmund Kemper
+
+    Which Japanese serial killer and cannibal was released and became a celebrity?
+        Options: [Issei Sagawa, Tsutomu Miyazaki, Futoshi Matsunaga, Mamoru Takuma]
+        Correct Answer: Issei Sagawa
+
+    Which serial killer was known for leaving lipstick messages on the walls?
+        Options: [The Lipstick Killer, The Zodiac Killer, The Night Stalker, The Axeman of New Orleans]
+        Correct Answer: The Lipstick Killer
+
+    Which serial killer was active during the early 1900s in New Orleans?
+        Options: [The Axeman, The Lipstick Killer, Albert Fish, The Night Stalker]
+        Correct Answer: The Axeman
+
+    Which American serial killer was known as the "Iceman"?
+        Options: [Richard Kuklinski, John Wayne Gacy, Ted Bundy, Gary Ridgway]
+        Correct Answer: Richard Kuklinski
+
+    Which Russian serial killer was known as the "Butcher of Rostov"?
+        Options: [Andrei Chikatilo, Alexander Pichushkin, Anatoly Onoprienko, Vasili Komaroff]
+        Correct Answer: Andrei Chikatilo
+
+    Which serial killer operated under the alias of "Bobbie Joe Long"?
+        Options: [Bobby Joe Long, Tommy Lynn Sells, David Parker Ray, Wayne Williams]
+        Correct Answer: Bobby Joe Long
+
+Category: WoW Lore
+Easy:
+
+    Which world was the orc homeworld before they invaded Azeroth?
+        Options: [Outland, Draenor, Argus, Nagrand]
+        Correct Answer: Draenor
+
+    Who is the Lich King?
+        Options: [Illidan Stormrage, Kil'jaeden, Arthas Menethil, Ner'zhul]
+        Correct Answer: Arthas Menethil
+
+    What is the name of the capital city of the Alliance?
+        Options: [Orgrimmar, Stormwind, Silvermoon, Thunder Bluff]
+        Correct Answer: Stormwind
+
+    Which dragon aspect is associated with the Bronze Dragonflight?
+        Options: [Alexstrasza, Malygos, Nozdormu, Ysera]
+        Correct Answer: Nozdormu
+
+    Which race was cursed and became Worgen?
+        Options: [Humans, Night Elves, Orcs, Draenei]
+        Correct Answer: Humans
+
+    Who is the leader of the Horde after the events of Battle for Azeroth?
+        Options: [Sylvanas Windrunner, Thrall, Garrosh Hellscream, Varok Saurfang]
+        Correct Answer: Thrall
+
+    What is the capital city of the Night Elves?
+        Options: [Undercity, Silvermoon, Darnassus, Ironforge]
+        Correct Answer: Darnassus
+
+    Who is the Earth-Warder and former aspect of the Black Dragonflight?
+        Options: [Deathwing, Alexstrasza, Nefarian, Onyxia]
+        Correct Answer: Deathwing
+
+    Which Old God is associated with the city of Ulduar?
+        Options: [Y'Shaarj, N'Zoth, C'Thun, Yogg-Saron]
+        Correct Answer: Yogg-Saron
+
+    Which race is known for its engineering skills in Azeroth?
+        Options: [Tauren, Night Elves, Gnomes, Trolls]
+        Correct Answer: Gnomes
+
+Medium:
+
+    Which dragon aspect sacrificed herself to save Azeroth in Cataclysm?
+        Options: [Alexstrasza, Ysera, Nozdormu, Malygos]
+        Correct Answer: Ysera
+
+    Which titan created the dragon aspects?
+        Options: [Aman'Thul, Sargeras, Aggramar, Norgannon]
+        Correct Answer: Aman'Thul
+
+    What is the name of the Blood Elf starting zone?
+        Options: [Ghostlands, Eversong Woods, Tirisfal Glades, Silverpine Forest]
+        Correct Answer: Eversong Woods
+
+    Which Pandaren monk helped create the Horde and Alliance forces in Pandaria?
+        Options: [Chen Stormstout, Taran Zhu, Li Li Stormstout, Aysa Cloudsinger]
+        Correct Answer: Chen Stormstout
+
+    Which Old God corrupted Deathwing?
+        Options: [N'Zoth, Yogg-Saron, C'Thun, Y'Shaarj]
+        Correct Answer: N'Zoth
+
+    What is the name of the Naaru that helped the Draenei escape Argus?
+        Options: [A'dal, Velen, M'uru, O'ros]
+        Correct Answer: M'uru
+
+    Who is the main antagonist of the Legion expansion?
+        Options: [Kil'jaeden, Gul'dan, Sargeras, Illidan]
+        Correct Answer: Kil'jaeden
+
+    Which city was destroyed by Deathwing during the Cataclysm?
+        Options: [Darnassus, Theramore, Stormwind, Booty Bay]
+        Correct Answer: Theramore
+
+    What is the name of the Demon Hunter starting zone?
+        Options: [Black Temple, Broken Shore, Mardum, Felwood]
+        Correct Answer: Mardum
+
+    Which Titan keeper is associated with the Forge of Origination?
+        Options: [Ra-den, Freya, Loken, Thorim]
+        Correct Answer: Ra-den
+
+Hard:
+
+    What was the original name of the human kingdom of Lordaeron after its fall?
+        Options: [Stratholme, Tirisfal, Undercity, Capital City]
+        Correct Answer: Undercity
+
+    Which artifact weapon did Thrall wield to defeat Deathwing?
+        Options: [Ashbringer, Doomhammer, Frostmourne, Gorehowl]
+        Correct Answer: Doomhammer
+
+    Which ancient Titan facility did the Titans use to imprison Yogg-Saron?
+        Options: [Ulduar, Uldaman, Uldir, Uldum]
+        Correct Answer: Ulduar
+
+    Who is the last remaining Titan after the defeat of Sargeras?
+        Options: [Aman'Thul, Eonar, Norgannon, Aggramar]
+        Correct Answer: Aman'Thul
+
+    Which Demon Lord was responsible for the War of the Ancients?
+        Options: [Kil'jaeden, Archimonde, Mannoroth, Sargeras]
+        Correct Answer: Sargeras
+
+    Who is the sister of Sylvanas Windrunner?
+        Options: [Alleria, Vereesa, Jaina, Tyrande]
+        Correct Answer: Alleria
+
+    Which Troll empire once ruled the vast lands of Azeroth?
+        Options: [Gurubashi, Amani, Zandalari, Drakkari]
+        Correct Answer: Zandalari
+
+    What is the name of the weapon that Arthas wielded to become the Lich King?
+        Options: [Frostmourne, Shadowmourne, Ashbringer, Gorehowl]
+        Correct Answer: Frostmourne
+
+    Which Old God was defeated during the Pandaria expansion?
+        Options: [C'Thun, N'Zoth, Y'Shaarj, Yogg-Saron]
+        Correct Answer: Y'Shaarj
+
+    Which Elven kingdom fell to the Scourge during the Third War?
+        Options: [Quel'Thalas, Azshara, Teldrassil, Suramar]
+        Correct Answer: Quel'Thalas
